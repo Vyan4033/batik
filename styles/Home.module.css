@@ -1,0 +1,33 @@
+.container {
+  width: 30%;
+  min-height: 200px;
+  margin-top: 10%;
+  box-shadow: 0 3px 10px;
+  padding: 50px;
+  position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -120px;
+	margin-left: -220px;
+  background-color:aliceblue;
+}
+.h3{
+  text-align: center;
+  color: #0d6efd;
+}
+.body{
+  background-color: #adb5bd;
+}
+.card{
+  height: 250px;
+  position: relative;
+  padding: 20px 15px 0;
+  box-shadow: 0px 2px 20px rgba(0,0,0,0.2);
+}
+.img{
+  width: 545px;
+  height: 350px;
+}
+.position{
+  text-align: center;
+}
